@@ -1396,7 +1396,7 @@ MessengerUI, Messages, Pages) {
         tb['limit'] = createLimit; // TODO
         tb['newpad'] = createNewPad;
         tb['useradmin'] = createUserAdmin;
-        tb['notifications'] = createNotifications;
+        // tb['notifications'] = createNotifications;
         tb['maintenance'] = createMaintenance;
 
         tb['pad'] = function () {

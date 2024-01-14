@@ -16,5 +16,7 @@ define(['/common/application_config_internal.js'], function (AppConfig) {
     // To inform users of the support ticket panel which languages your admins speak:
     //AppConfig.supportLanguages = [ 'en', 'fr' ];
 
+    AppConfig.hideUsageBar = true;
+
     return AppConfig;
 });
